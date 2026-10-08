@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pm-career-desk": {
+      "type": "http",
+      "url": "https://app.pmcareerdesk.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "pm-career-desk",
+  "owner": {
+    "name": "PM Career Desk",
+    "email": "support@pmcareerdesk.com",
+    "url": "https://pmcareerdesk.com"
+  },
+  "description": "Plugins from PM Career Desk for project, program and product managers.",
+  "plugins": [
+    {
+      "name": "pm-interview-coach",
+      "source": "./",
+      "description": "Interview practice for project, program and product managers, with questions from your resume and a job posting and a structure check of every answer.",
+      "category": "career"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>PM Career Desk</title>
+  <rect width="1024" height="1024" fill="#0B5E5E"/>
+  <g transform="translate(167 176) scale(12)" fill="none" stroke="#FBFAF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="10" width="30" height="36" rx="4"/>
+    <line x1="11" y1="21" x2="27" y2="21"/>
+    <line x1="11" y1="29" x2="23" y2="29"/>
+    <path d="M23 29 C 36 29, 38 40, 50 40"/>
+    <circle cx="50" cy="40" r="3.5" fill="#FBFAF6"/>
+  </g>
+</svg>

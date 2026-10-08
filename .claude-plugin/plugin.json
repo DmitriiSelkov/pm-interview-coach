@@ -1,0 +1,22 @@
+{
+  "name": "pm-interview-coach",
+  "displayName": "PM Interview Coach",
+  "version": "0.1.0",
+  "description": "Interview practice for project, program and product managers: the questions a hiring manager is likely to ask about your resume and a job posting, practised one at a time, with a structure check of every answer. Rules from PM Career Desk; your own Claude runs the session.",
+  "author": {
+    "name": "PM Career Desk",
+    "email": "support@pmcareerdesk.com",
+    "url": "https://pmcareerdesk.com"
+  },
+  "homepage": "https://pmcareerdesk.com/claude/",
+  "repository": "https://github.com/DmitriiSelkov/pm-interview-coach",
+  "license": "LicenseRef-PMCD-Limited-Use",
+  "keywords": ["interview", "interview practice", "project manager", "program manager", "product manager", "resume", "career"],
+  "metadata": {
+    "publisher": "PME Consulting, Inc.",
+    "privacyPolicy": "https://pmcareerdesk.com/privacy/",
+    "termsOfService": "https://pmcareerdesk.com/terms/",
+    "support": "support@pmcareerdesk.com",
+    "connector": "https://app.pmcareerdesk.com/mcp"
+  }
+}
