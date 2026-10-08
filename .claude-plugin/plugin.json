@@ -11,7 +11,16 @@
   "homepage": "https://pmcareerdesk.com/interview-coach/",
   "repository": "https://github.com/DmitriiSelkov/pm-interview-coach",
   "license": "LicenseRef-PMCD-Limited-Use",
-  "keywords": ["interview", "interview practice", "project manager", "program manager", "product manager", "resume", "career"],
+  "privacyPolicyUrl": "https://pmcareerdesk.com/privacy/",
+  "keywords": [
+    "interview",
+    "interview practice",
+    "project manager",
+    "program manager",
+    "product manager",
+    "resume",
+    "career"
+  ],
   "metadata": {
     "publisher": "PME Consulting, Inc.",
     "privacyPolicy": "https://pmcareerdesk.com/privacy/",

@@ -40,7 +40,7 @@ When the skill calls a tool, Claude sends the text the tool needs (the resume te
 
 We do not store the text you send through the connector. We count which tool was used.
 
-Your conversation with Claude is governed by Anthropic's terms and privacy policy. Our Privacy Notice: https://pmcareerdesk.com/privacy/. Terms: https://pmcareerdesk.com/terms/.
+Your conversation with Claude is governed by Anthropic's terms and privacy policy. Our Privacy Notice: <https://pmcareerdesk.com/privacy/>. Terms: <https://pmcareerdesk.com/terms/>.
 
 ## AI disclosure
 
@@ -54,7 +54,7 @@ Reed (AI) is the PM Career Desk analyst named in the tool results. Reed is softw
 
 ## Support
 
-Email support@pmcareerdesk.com. Documentation: https://pmcareerdesk.com/interview-coach/.
+Email support@pmcareerdesk.com. Documentation: <https://pmcareerdesk.com/interview-coach/>.
 
 PM Career Desk is a service of PME Consulting, Inc. This plugin is not made or endorsed by Anthropic.
 
