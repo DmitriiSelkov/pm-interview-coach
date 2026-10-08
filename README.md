@@ -54,7 +54,7 @@ Reed (AI) is the PM Career Desk analyst named in the tool results. Reed is softw
 
 ## Support
 
-Email support@pmcareerdesk.com. Documentation: https://pmcareerdesk.com/claude/.
+Email support@pmcareerdesk.com. Documentation: https://pmcareerdesk.com/interview-coach/.
 
 PM Career Desk is a service of PME Consulting, Inc. This plugin is not made or endorsed by Anthropic.
 
