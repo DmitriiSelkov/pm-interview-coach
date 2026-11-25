@@ -1,8 +1,8 @@
 {
   "name": "pm-interview-coach",
   "displayName": "PM Interview Coach",
-  "version": "0.4.0",
-  "description": "Interview preparation for project, program and product managers: a whole resume review, a match of your resume to a job posting, a LinkedIn headline and About check, the questions a hiring manager is likely to ask, practised one at a time with a structure check of every answer, and a mock interview with a scorecard for signed-in accounts. Ten free tools from PM Career Desk; your own Claude runs the session.",
+  "version": "0.5.0",
+  "description": "Six skills that prepare project, program and product managers for US job interviews: interview prep from a resume and a job posting, a resume to posting match with an honest rework, a resume review, a LinkedIn check, a mock interview, and a title fit and PM Archetype check. They run on the PM Career Desk connector: ten free tools that need no sign-in and nine more for signed-in accounts with access.",
   "author": {
     "name": "PM Career Desk",
     "email": "support@pmcareerdesk.com",
@@ -11,7 +11,16 @@
   "homepage": "https://pmcareerdesk.com/interview-coach/?from=claude",
   "repository": "https://github.com/DmitriiSelkov/pm-interview-coach",
   "license": "LicenseRef-PMCD-Limited-Use",
+  "icon": "./assets/pm-career-desk-icon-512.png",
+  "documentationUrl": "https://pmcareerdesk.com/interview-coach/?from=claude",
+  "supportUrl": "https://pmcareerdesk.com/contact/",
   "privacyPolicyUrl": "https://pmcareerdesk.com/privacy/",
+  "termsOfServiceUrl": "https://pmcareerdesk.com/terms/",
+  "network": {
+    "hosts": [
+      "app.pmcareerdesk.com"
+    ]
+  },
   "keywords": [
     "interview",
     "interview practice",
@@ -20,7 +29,12 @@
     "product manager",
     "resume",
     "career",
-    "linkedin"
+    "linkedin",
+    "job interview",
+    "resume review",
+    "job posting",
+    "technical program manager",
+    "mock interview"
   ],
   "metadata": {
     "publisher": "PME Consulting, Inc.",
