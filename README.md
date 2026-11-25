@@ -16,7 +16,7 @@ The skills instruct Claude never to invent a figure, employer, date or outcome f
   - `mock-interview`: a mock interview with a scorecard, and practice progress across chats (signed-in accounts).
   - `pm-title-and-archetype`: which title fits your work (project manager, program manager or TPM) and the PM Archetype test, for reflection.
 - `.mcp.json`: one remote MCP server, PM Career Desk, at `https://app.pmcareerdesk.com/mcp`.
-- The assets folder: the PM Career Desk icon in SVG and PNG.
+- The assets folder: the PM Career Desk icon as PNG images.
 
 The plugin runs nothing on your computer: no scripts, no hooks, no package installs.
 
